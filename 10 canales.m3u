@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1, otro 4
+
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1, 47
+
+https://d368vp0qqzvkid.cloudfront.net/11603/88889716/hls/master.m3u8?ads._fw_atts=&ads._fw_h_user_agent=Mozilla%252F5.0%2520%28Linux%253B%2520Android%252013%253B%2520SM-A326U%2520Build%252FTP1A.220624.014%253B%2520wv%29%2520AppleWebKit%252F537.36%2520%28KHTML%252C%2520like%2520Gecko%29%2520Version%252F4.0%2520Chrome%252F143.0.7499.193%2520Mobile%2520Safari%252F537.36&ads._fw_is_lat=0&ads._fw_nielsen_app_id=P06F4DCAF-86D7-4159-AAE9-D3C50FF96F01&ads._fw_player_height=0&ads._fw_player_width=299&ads._fw_site_page=https%253A%252F%252Fwww.telemundo47.com%252F&ads._fw_us_privacy=1YNN&ads.afid=396654219&ads.caid=TelemundoNoticiasNoreste&ads.channelName=TelemundoNoticiasNoreste&ads.csid=tm_ots_alldevice_allos_web_wnju_livelinear_virtualchannel&ads.flag=%252Bsltp%252Bemcr%252Bslcb%252Bsbid-fbad%252Baeti%252Bslif-vicb%252Bamcb%252Bplay-uapl%252Bdtrd%252Bexvt&ads.gpp=DBABLA%7EBVQqAAAAAgA.QA&ads.gpp_sid=7&ads.nw=169843&ads.playerVersion=8.30.1&ads.prof=169843%3Anbcu_ots_web_linear&ads.resp=vmap1&ads.sfid=23475400&ads.vcid=706087595546906936&ads.vip=142.105.54.114&ads.xumo_channelId=88889716a&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifaType=&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88889716&ads.xumo_ifa=&ads._fw_did=&ads.site_name=TLMD
+
+#EXTINF:-1, cnn
+
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1, Antena 7
+
+https://d2qsan2ut81n2k.cloudfront.net/live/3bc8d309-7e74-46ec-bb09-18afc6de1e86/ts:abr.m3u8#https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2F3bc8d309-7e74-46ec-bb09-18afc6de1e86%2Fts%3Aabr.m3u8%23https%3A%2F%2Falba-do-antena7-antena7.stream.mediatiquestream.com%2Findex.m3u8%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2217fdbc4b-553f-438d-b1cd-e2a25efa0ade%22%2Csu
+
+
+#EXTINF:-1, 
+
+
+
+
+#EXTINF:-1, canal 11
+
+
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(IYqnrHwiNGlDFU70zHPYHs3ZY87VmFYWh0OZ7R-28zkgejcftD9H9t241C4C1EF1SXHdXnvk1Jskt9Hjqb8c-Vf2-ZsNMqIunAlWaGKD2YrX6PPGZv8kLvsjbUECgtAa)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcf2-eu-north-1b
+
+
+#EXTINF:-1,canal 4
+
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w896412928_b4628000.m3u8
+
+#EXTINF:-1, canal 29
+
+https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
+
+#EXTINF:-1, 
+
+
+
+#EXTINF:-1, 
+
+
+
+
