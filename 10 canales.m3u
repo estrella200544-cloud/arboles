@@ -17,15 +17,14 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist108
 https://d2qsan2ut81n2k.cloudfront.net/live/3bc8d309-7e74-46ec-bb09-18afc6de1e86/ts:abr.m3u8#https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2F3bc8d309-7e74-46ec-bb09-18afc6de1e86%2Fts%3Aabr.m3u8%23https%3A%2F%2Falba-do-antena7-antena7.stream.mediatiquestream.com%2Findex.m3u8%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2217fdbc4b-553f-438d-b1cd-e2a25efa0ade%22%2Csu
 
 
-#EXTINF:-1, 
+#EXTINF:-1, multivision (constanza)
+
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+
+#EXTINF:-1,
 
 
-
-
-#EXTINF:-1, canal 11
-
-
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(IYqnrHwiNGlDFU70zHPYHs3ZY87VmFYWh0OZ7R-28zkgejcftD9H9t241C4C1EF1SXHdXnvk1Jskt9Hjqb8c-Vf2-ZsNMqIunAlWaGKD2YrX6PPGZv8kLvsjbUECgtAa)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(e_xPzyPN9ZRRHTi3kkDSAZz_wgYdEg1hUBVpzPTKfEfnq187U_E8vfkwm3Dr2fVvXp2q4H5sCGP_9-76-PsDA960sjm7hpr9d1YNB9U1BBOGLgowvaMRQ9zZd-Elyv6a)/cloud/3/x80ac48/d/live-480.m3u8
 
 
 #EXTINF:-1,canal 4
@@ -38,10 +37,10 @@ https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
 #EXTINF:-1, 
 
+#EXTINF:-1, canal 27
 
+https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
 #EXTINF:-1, 
-
-
 
 
